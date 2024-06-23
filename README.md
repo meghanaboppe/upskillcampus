@@ -1,0 +1,1 @@
+My project is Smart City using datascience. I have used Jupyter Notebook Tool for the code part of the machine learning.I have learnt importing libraries ,testing,training and splitting the data.I had a great experience doing this project
